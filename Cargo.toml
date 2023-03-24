@@ -1,2 +1,2 @@
 [workspace]
-members = ["chess_engine", "demo"]
+members = ["crates/*"]
