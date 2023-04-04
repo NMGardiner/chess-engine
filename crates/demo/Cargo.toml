@@ -7,4 +7,5 @@ edition = "2021"
 
 [dependencies]
 chess_engine = { path = "../chess_engine" }
+rand = "0.8.5"
 vampirc-uci = "0.11.1"
